@@ -1,7 +1,7 @@
-![A preview](https://github.com/nirajprakash/nirajprakash.github.io/blob/main/images/banner.png)
+<!-- ![A preview](https://github.com/nirajprakash/nirajprakash.github.io/blob/main/images/banner.png) -->
 
 # Personal Portfolio 
-> [nirajprakash.github.io/](https://nirajprakash.github.io/)
+> [this_is_thiru.github.io/](https://thiru.github.io/)
 
 - **Framework**: [Angular14](https://angular.io/)
 - **Styling**: [SCSS](https://sass-lang.com/)
